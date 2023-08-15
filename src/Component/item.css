@@ -1,0 +1,38 @@
+.items{
+
+    color: black;
+    min-height: 365px;
+    
+    width: 353px;
+    display: inline-block;
+    position: relative;
+    top: 120px;
+
+    margin:10px 10px;
+   border:  2px solid gainsboro;
+}
+.image 
+{
+    background-color: gray;
+    min-height: 157px;
+
+
+}
+.items button{
+
+    height: 44px;
+    width: 118px;
+    border-radius: 3px;
+    background: lightblue;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    
+    margin: 26px 0px;
+    cursor: pointer;
+
+}
+h5{
+
+    font-size: 20px;
+}
